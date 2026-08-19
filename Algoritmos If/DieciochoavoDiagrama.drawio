@@ -1,0 +1,140 @@
+<mxfile host="65bd71144e">
+    <diagram id="lh3x4JSzCEtFO7azKbR_" name="Page-1">
+        <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="320" y="70" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;   Superficie,&lt;br&gt;             hectarias,&lt;br&gt;             pino,&lt;br&gt;            oyamel,&lt;br&gt;            cedro,&lt;br&gt;            areaOyamel,&lt;br&gt;            areaPino,&lt;br&gt;             areaCedro,&lt;br&gt;             porcentajePino,&lt;br&gt;            porcentajeOyamel,&lt;br&gt;            porcentajeCedro&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="160" width="250" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;Ingrese el numero de hectarias&quot;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="410" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; Superficie = hectarias * 10000&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="490" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="615"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="20">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="615"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;(Superficie &amp;gt; 1000000&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="570" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="965"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;porcentajeCedro = 0.10&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="820" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; porcentajeOyamel = 0.20&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="740" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;  porcentajePino = 0.70&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="660" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;porcentajePino =  0.50&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="660" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; porcentajeOyamel = 0.30&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="740" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="965"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;porcentajeCedro = 0.20&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="820" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&amp;nbsp;areaCedro = Superficie * porcentajeCedro&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1110" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;  areaPino = Superficie * porcentajePino&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="940" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;" edge="1" parent="1" source="28" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&amp;nbsp;areaOyamel = Superficie * porcentajeOyamel&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1030" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;" edge="1" parent="1" source="34" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;los pinos &quot;+ pino&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1210" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;los oyamel &quot;+ oyamel&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1310" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;" edge="1" parent="1" source="38" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;los cedros &quot;+ cedro&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1420" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Fin" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="327.5" y="1520" width="85" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="595" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="595" width="40" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
