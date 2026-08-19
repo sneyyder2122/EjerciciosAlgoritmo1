@@ -1,0 +1,376 @@
+<mxfile host="65bd71144e">
+    <diagram id="-cGtsd3RPcFAK98C6jF2" name="Page-1">
+        <mxGraphModel dx="1553" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="320" y="80" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;sexo,&lt;br&gt;edad,&lt;br&gt;nivelHomoglobina,&lt;br&gt; minimo,&lt;br&gt;   maximo&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="190" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;Ingrese su sexo ( M = mujer|| H = Hombre ): &quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="320" width="125" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;Ingrese su edad en meses: &quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="430" width="105" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;Ingrese el nivel de hemoglobia&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="318.5" y="525" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="565" y="690"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="685"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;edad == 0 &amp;amp;&amp;amp; edad == 1&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="307.5" y="630" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo = 26&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="810" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;  minimo = 13&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="720" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="795"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="760" y="795"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;edad &amp;gt; 1 &amp;amp;&amp;amp; edad &amp;lt;= 6&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="730" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 10&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="840" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo = 18&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="920" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="25" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="610" y="915"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="25" target="33">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="955" y="915"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;edad &amp;gt; 6 &amp;amp;&amp;amp; edad &amp;lt;= 12&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="705" y="860" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;" edge="1" parent="1" source="27" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 11&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="970" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" style="edgeStyle=none;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo = 15&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="1060" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="830" y="1030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1140" y="1030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;edad &amp;gt; 12 &amp;amp;&amp;amp; edad &amp;lt;= 60&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="970" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;" edge="1" parent="1" source="35" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 11.5&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="1090" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="36" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo = 15&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="1190" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="39" target="42">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1000" y="1145"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="39" target="45">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1310" y="1145"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;edad &amp;gt; 60 &amp;amp;&amp;amp; edad &amp;lt;= 120&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="1073" y="1090" width="130" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;" edge="1" parent="1" source="42" target="43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;12.6&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="1200" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="edgeStyle=none;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="43" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;15.5&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="1290" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="49">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1200" y="1250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="52">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1490" y="1255"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;(edad &amp;gt; 120 &amp;amp;&amp;amp; edad &amp;lt;180&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="1240" y="1200" width="144" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=none;html=1;" edge="1" parent="1" source="49" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 13&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1150" y="1300" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" style="edgeStyle=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="50" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;15.5&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1150" y="1390" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="55">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1360" y="1345"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="59">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1630" y="1345"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;sexo == &#39;M&#39; ||sexo == &#39;m&#39;&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="1290" width="140" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=none;html=1;" edge="1" parent="1" source="55" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 12&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1310" y="1380" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="56" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;16&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1310" y="1470" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" style="edgeStyle=none;html=1;" edge="1" parent="1" source="59" target="60">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;minimo = 14&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1580" y="1380" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="60" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;maximo = 18&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1580" y="1470" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" style="edgeStyle=none;html=1;" edge="1" parent="1" source="62" target="63">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;Rango de hemoglobina: &quot; + minimo + &quot; - &quot; + maximo + &quot; g%&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="1570" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="63" target="65">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="375" y="1840" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="360" y="1770"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="63" target="68">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="755" y="1770"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;nivelHomoglobina &amp;lt; minimo&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="467.5" y="1700" width="155" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;La persona tiene anemia.&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="1840" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="68" target="70">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="1890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="68" target="72">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="960" y="1890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;nivelHomoglobina &amp;gt; maximo&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="1820" width="150" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;la persona tiene eritrocitosis&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="1940" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;la persona no tiene anemia &quot;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="910" y="1960" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Fin" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="500" y="2130" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-30;entryPerimeter=0;" edge="1" parent="1" source="70" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="72" target="74">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="960" y="2150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="65" target="74">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="350" y="2160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=none;html=1;entryX=0.977;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="22" target="62">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1020" y="1122" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="1010" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="657" y="895" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="774" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="662" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="1869" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="1747" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1381" y="1325" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1200" y="1227" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="665" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1230" y="1122" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1050" y="1010" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="890" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="657" y="770" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="1232" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="1747" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="1867" width="40" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

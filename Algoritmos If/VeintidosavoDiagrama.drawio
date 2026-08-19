@@ -1,0 +1,155 @@
+<mxfile host="65bd71144e">
+    <diagram id="r0GYt_cu9jwqnCVre1HS" name="Page-1">
+        <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="320" y="50" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; A&lt;br&gt;        B&lt;br&gt;         C&lt;br&gt;         D&lt;br&gt;        x1&lt;br&gt;       x2&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="160" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;ingrese el valor de A&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="320" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;ingrese el valor de B&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20data-pm-slice%3D%26quot%3B1%201%20%5B%5D%26quot%3B%26gt%3B%26lt%3Bspan%20data-prompt-literal-paste%3D%26quot%3B%26quot%3B%26gt%3B%26quot%3Bingrese%20el%20valor%20de%20A%26quot%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22shape%3DmanualInput%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D0%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22320%22%20width%3D%22100%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="400" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;ingrese el valor de C&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap; background-color: transparent;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20data-pm-slice%3D%26quot%3B1%201%20%5B%5D%26quot%3B%26gt%3B%26lt%3Bspan%20data-prompt-literal-paste%3D%26quot%3B%26quot%3B%26gt%3B%26quot%3Bingrese%20el%20valor%20de%20A%26quot%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22shape%3DmanualInput%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D0%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22320%22%20width%3D%22100%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="470" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.54;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; D =  B * B - 4 * A * C&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="560" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;la discriminante es &quot;+ D&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="650" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;D == 0&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="750" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;el valor de x1 es &quot; +x1&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="940" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&amp;nbsp;x1=x2= -B/ (2*A)&lt;/span&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="850" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="22">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="885"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="32">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="670" y="885"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;D &amp;gt; 0&lt;/span&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="850" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; x1 = (-B + Math.sqrt(D))/ (2 * A)&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" link="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt; x1 = (-B + Math.sqrt(D))/ (2 * A)&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" id="22">
+                    <mxCell style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                        <mxGeometry x="360" y="920" width="100" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="28" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;  x2 = (-B - Math.sqrt(D))/ (2 * A)&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" link="&#xa;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;  x2 = (-B - Math.sqrt(D))/ (2 * A)&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" id="25">
+                    <mxCell style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+                        <mxGeometry x="360" y="1010" width="100" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="31" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;el valor de x1 es &quot; +x1&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="1100" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;" edge="1" parent="1" source="30" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;el valor de x2 es &quot; +x2&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="1200" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span data-prompt-literal-paste=&quot;&quot;&gt;&quot;No existe una solucion real. &quot;&lt;/span&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="920" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Fin" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+                    <mxGeometry x="365" y="1380" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="1405"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="670" y="1405"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="780" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="865" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="779" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="865" width="40" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
